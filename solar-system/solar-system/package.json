@@ -1,13 +1,13 @@
 {
-  "name": "3app",
+  "name": "solar-system",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
   "dependencies": {
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
     "react-scripts": "2.1.1"
   },
+  "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
